@@ -15,7 +15,7 @@
   "dependencies": {
     "optimist": "latest",
     "request": "2.x.x",
-    "JSONStream": "0.9.x",
+    "JSONStream": "0.10.0",
     "line-reader": "0.2.x"
   },
   "devDependencies": {
