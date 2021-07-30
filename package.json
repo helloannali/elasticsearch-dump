@@ -16,7 +16,7 @@
     "optimist": "latest",
     "request": "2.x.x",
     "JSONStream": "0.9.x",
-    "line-reader": "0.2.x"
+    "line-reader": "0.4.0"
   },
   "devDependencies": {
     "mocha": "latest",
